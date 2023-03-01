@@ -1,4 +1,4 @@
-#  Welcome to my GitHub site! Feel free to browse my projects, papers, and code. 
+#  Welcome to my GitHub site! Feel free to browse my projects, papers, and code.  
 
 ## To contact me, reach out via email at samantha.lorenz182@gmail.com
 
