@@ -14,7 +14,7 @@
 
 #### Summer 2022: A Study of Classification Models: In this project, I studied types of classification models in R and in Python. This allowed me to extend my skills in Python as well as statistics by studying how the models classified types of mushrooms as edible or poisonous. A formal paper was written, as well as a presentation through a seminar held by Knox College. 
 
-#### Fall 2022 to Current: Honors project on Generalized and Vector Generalized Linear Models: This project has allowed me to apply my skills in R with many different data sets. I have read two upper-undergraduate texts on both types of model. A formal paper is in the review process, which contains what I have found, research I mathematically conducted, programs I have written to test these theories, and further applications to both types of modeling. 
+#### Fall 2022 to Spring 2023: Honors project on Generalized and Vector Generalized Linear Models: This project has allowed me to apply my skills in R with many different data sets. I have read two upper-undergraduate texts on both types of model. A formal paper is in the review process, which contains what I have found, research I mathematically conducted, programs I have written to test these theories, and further applications to both types of modeling. 
 
 
        
